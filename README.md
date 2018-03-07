@@ -1,10 +1,10 @@
-#Getting and Cleaning Data - Course Project
+# Getting and Cleaning Data - Course Project
 This repo fulfils the final assignment of the Coursera course 'Getting and Cleaning Data'.
 
-##Input File
+## Input File
 The R script, 'run_analysis.R', requires that the data has been downloaded and unzipped into the working directory.
 
-##Script Summary
+## Script Summary
 The R script does the following:
 
 1. Verifies that the dataset is in the correct folder and returns a message confirming the status of the data.
@@ -14,5 +14,5 @@ The R script does the following:
 5. Labels columns with descriptive variable names.
 6. Generates a dataset comprising the average value of each experimental variable as measured from a single subject performing a single activity.
 
-##Output File
+## Output File
 The final dataset, 'means.txt', is generated in the working directory.
